@@ -15,4 +15,4 @@ The project can be decomposed into:
 6) Path planning. Can robot plan a route from, for example, living room to larder?
 7) Beer collection/carrying.
 
-TBC
+TBC...
